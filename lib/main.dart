@@ -1,4 +1,4 @@
-import 'package:bmi_calculator_kurs12/pages/home_page.dart';
+import 'package:bmi_calculator_kurs12/modules/home/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
